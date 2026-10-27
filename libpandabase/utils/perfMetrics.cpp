@@ -18,6 +18,7 @@
 #include "libpandabase/utils/logger.h"
 #include "libpandabase/utils/type_converter.h"
 #include "libpandabase/mem/mem.h"
+#include <algorithm>
 #include <chrono>
 #include <mutex>
 #include <forward_list>
