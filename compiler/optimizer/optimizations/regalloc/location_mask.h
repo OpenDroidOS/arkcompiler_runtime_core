@@ -16,6 +16,8 @@
 #ifndef COMPILER_OPTIMIZER_OPTIMIZATIONS_REGALLOC_LOCATION_MASK_H
 #define COMPILER_OPTIMIZER_OPTIMIZATIONS_REGALLOC_LOCATION_MASK_H
 
+#include <algorithm>
+
 #include "mem/arena_allocator.h"
 #include "utils/arena_containers.h"
 
